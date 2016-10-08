@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: PyGunShot
+Version: 0.1.0.dev1
+Summary: pygunshot is a set of functions to generate gunshot  sounds given the scene geometry and ballistic parameters. Note that the module only provides anechoic samples and appropriate reverberation effects need to be added.
+Home-page: https://github.com/metu-sparg/pygunshot/
+Author: Huseyin Hacihabiboglu
+Author-email: husshho@gmail.com
+License: MIT License
+Description: UNKNOWN
+Keywords: gunshot sound synthesis
+Platform: UNKNOWN
